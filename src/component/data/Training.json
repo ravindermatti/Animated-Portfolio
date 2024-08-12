@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Java Full Stack Developer",
+    "organisation": "QSpider",
+    "startDate": "Jan,2024",
+    "endDate": "- Present",
+    "location": "Noida",
+    "imageSrc": "company/Qspider.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Developer",
+    "organisation": "Hoping Mind",
+    "startDate": "Jan,2023",
+    "endDate": "- June,2023",
+    "location": "Mohali(Punjab)",
+    "imageSrc": "company/hoping.png"
+  },
+  {
+    "id": 3,
+    "role": "Core Java",
+    "organisation": "Softwiz technology pvt. ltd.",
+    "startDate": "june,2022",
+    "endDate": "- July,2022",
+    "location": "Bathinda(punjab)",
+    "imageSrc": "company/softwizz.png"
+  }
+]
